@@ -1,0 +1,6 @@
+[submodule "Learn-Data-Structures-and-Algorithms-with-Golang"]
+	path = Learn-Data-Structures-and-Algorithms-with-Golang
+	url = https://github.com/PacktPublishing/Learn-Data-Structures-and-Algorithms-with-Golang
+[submodule "6.5840"]
+	path = 6.5840
+	url = git://g.csail.mit.edu/6.5840-golabs-2024
